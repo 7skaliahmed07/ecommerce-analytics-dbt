@@ -1,5 +1,7 @@
 # 📊 Ecommerce Analytics dbt Project
 
+![Architecture.png](https://github.com/7skaliahmed07/ecommerce-analytics-dbt/blob/56fa8ae9dea0266ac4b6e4f85b90c4f1ccb61eb9/Architecture.png)
+
 ## 🚀 Overview
 This project is an end-to-end analytics engineering pipeline built using dbt and DuckDB. It transforms raw ecommerce (Superstore-style) data into a structured star schema optimized for analytics and reporting.
 
