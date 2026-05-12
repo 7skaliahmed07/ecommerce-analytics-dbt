@@ -66,10 +66,3 @@ dim_customers   dim_products
 - Importance of data lineage and testing in analytics engineering
 
 ---
-
-## 📷 Data Lineage
-(Include dbt docs lineage screenshot here)
-
----
-
-## 📁 Project Structure
